@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+nav img{
+    width: 60px;
+    padding: 7px 24px;
+}
+nav{
+    background-color: red;
+}
+img{
+    width: 1200px;
+    margin-left: 150px;
+    position: relative;
+
+}
